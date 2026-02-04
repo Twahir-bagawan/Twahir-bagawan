@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Twahir</h1>
-<h3 align="center">Computer Science Student | Problem Solver | Backend Learner</h3>
+<h3 align="center">Aspiring Backend Engineer | DSA Enthusiast | Java & Node.js Developer</h3>
 
 ---
 
@@ -13,23 +13,27 @@
 ---
 
 ### 🛠️ Tech Stack
-- Languages: Java, C, JavaScript
-- Backend: Node.js, Express
-- Database: MongoDB
-- Tools: Git, GitHub, VS Code
+- **Languages:** Java, C, JavaScript
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-### 📊 GitHub Stats
-![Twahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Twahir-bagawan&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Twahir-bagawan&theme=radical)
 
 ---
 
-### 🧠 DSA Practice
-- Solved 120+ problems on LeetCode
-- Strong in Arrays, Strings, Stack, Recursion
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/twahir-bagawan-b92971330/
+- ✉️ Email: (add your email here if you want)
 
 ---
 
-### 📫 Connect with me
-- LinkedIn: (add link)
+## 📌 Quick Links
+⭐ Check out my best projects  
+🔗 Portfolio / Resume (if any)
+
+---
