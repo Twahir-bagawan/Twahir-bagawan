@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 2nd Year CS Engineering Student
+- 🎓 3rd Year CS Engineering Student
 - 💻 Solved 120+ LeetCode Problems
 - 🌱 Currently learning: Node.js, Express, MongoDB, JWT
 - 🔥 Interested in Product-Based Companies
